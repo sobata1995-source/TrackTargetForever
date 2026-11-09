@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: TrackTarget Forever
+## Notes: Left-click a Track Humanoids dot on the minimap to select a normal target. Outside combat.
+## Author: Denis Aleksandrov
+## Version: 0.1.0-beta
+## SavedVariables: TrackTargetForeverDB
+## IconTexture: Interface\Icons\Ability_Tracking
+## Category: Map & Minimap
+
+Logic.lua
+Core.lua
