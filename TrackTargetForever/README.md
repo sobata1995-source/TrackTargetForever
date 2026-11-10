@@ -4,7 +4,7 @@ Local validation for this package: Lua syntax checks, 78 name/tooltip logic chec
 
 **Click the existing red Track Humanoids dot on the actual minimap → select the character as your normal target in the standard WoW target frame.** Inspect the target normally, including class and level when the game displays them. The small **Ally / Horde** label beneath the minimap is supplemental.
 
-**0.1.0-beta · Blizzard World of Warcraft: Forever · Interface 16001**
+**0.1.0 · Blizzard World of Warcraft: Forever · Interface 16001**
 
 For Hunters and Druids with active **Track Humanoids**, outside combat. This beta has **not been tested in a live WoW Forever game session by the development environment**. Local code checks cannot validate the game's secure execution, minimap hit testing, or third-party UI compatibility.
 

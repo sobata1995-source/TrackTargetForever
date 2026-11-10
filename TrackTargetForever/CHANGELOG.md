@@ -1,14 +1,12 @@
 # Changelog
 
-## 0.1.0-beta — 2026-11-09
+## 0.1.0 — 2026-11-10
 
-First test package for Blizzard World of Warcraft: Forever (Interface 16001).
+First public release package for WoW Forever (Interface 16001).
 
-- Direct left-click on the actual hovered minimap tracking dot sets the normal WoW target, outside combat, for inspection in the standard target frame.
-- Support for active Track Humanoids on Hunter and Druid.
-- Repeated clicks cycle directly through overlapping candidate names, one target per click, without a selection menu.
-- A supplemental small Ally/Horde label for a confirmed player target; NPC or ? for other outcomes. Humanoid NPCs can also be targeted; no hostile-only filter.
-- Optional Shift + click, label visibility, addon controls, diagnostics, and a marked sample preview.
-- Bulgarian and English installation instructions and a short Bulgarian in-game test checklist.
+- Direct minimap click-to-target attempts with active Track Humanoids, outside combat.
+- Confirmed-target faction feedback, overlapping-name cycling and optional Shift-click mode.
+- English/Bulgarian documentation, help, diagnostics and sample-label preview.
+- Publication documentation, in-game help screenshot and community/support links.
 
-This beta needs live-client testing. In-game secure execution, minimap interaction, and compatibility with other UI addons have not been verified by the development environment.
+Runtime behavior is unchanged from 0.1.0-beta. Actual minimap targeting and secure mouse routing still require live-client verification; loading, help and the sample preview were observed in game.
